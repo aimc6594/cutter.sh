@@ -56,3 +56,5 @@ Ejemplo:
 - Si no se proporcionan argumentos, el script utiliza el archivo ./input y valores predeterminados.
 
 - Asegúrate de que Inkscape esté instalado correctamente para evitar errores durante la exportación.
+
+📌 **Este script está en desarrollo.** Aunque actualmente es funcional, podría estar sujeto a mejoras o ajustes futuros. Cualquier sugerencia o informe de errores es bienvenido. 🚀
